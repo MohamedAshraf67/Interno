@@ -16,7 +16,7 @@ class ComputerItInternships extends React.Component {
   render() {
     
     return (
-          <div data-layer="a44a3639-0da7-4390-ba27-51912eb67725" className="computerItInternships">        <div data-layer="02a95f42-1344-4bda-8940-5e2a8c0d0ea0" className="component55"></div>
+          <div data-layer="a44a3639-0da7-4390-ba27-51912eb67725" className="computerItInternships">       
         <svg data-layer="cad44abe-a0cb-47c0-b435-4072475fce47" preserveAspectRatio="none" viewBox="-0.5 0 1 916" className="line9"><path d="M 0 0 L 0 916"  /></svg>
         <svg data-layer="e0b3a6ab-a997-49b6-8897-6f1c3e2964cb" preserveAspectRatio="none" viewBox="-0.00048828125 -0.5 1920.0009765625 3" className="line10"><path d="M 0 2 L 1920 0"  /></svg>
         <div data-layer="f2c3d479-ad08-435c-9a01-6baab7a168ff" className="flatDesignCmsConceptIllustrated232148796510"></div>

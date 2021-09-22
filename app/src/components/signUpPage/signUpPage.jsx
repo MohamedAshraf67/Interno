@@ -16,7 +16,7 @@ class SignUpPage extends React.Component {
   render() {
     
     return (
-          <div data-layer="464a485e-efb0-4fe2-8ace-7e9486dc4a55" className="signUpPage">        <div data-layer="67b1f6f8-f56d-4ab0-a77d-7dd8c95c38ec" className="component58"></div>
+          <div data-layer="464a485e-efb0-4fe2-8ace-7e9486dc4a55" className="signUpPage">        
         <div data-layer="829efb68-b83d-4833-9699-9c2f9594fd6f" className="loginImgda65d0eb"></div>
         <div data-layer="9c270302-adce-4c18-936c-6595d026cd40" className="rectangle28"></div>
         <div data-layer="0ab377f6-5a4f-46e5-b576-5fd44cb509c4" className="becomeAnIntern">Become an Intern!</div>

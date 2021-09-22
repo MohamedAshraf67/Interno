@@ -16,7 +16,7 @@ class BusinessInternships extends React.Component {
   render() {
     
     return (
-          <div data-layer="e3857009-4156-4211-b857-e88b05d9efe6" className="businessInternships">        <div data-layer="a92f1aa6-6884-43fd-a11c-104cfcc503af" className="component54"></div>
+          <div data-layer="e3857009-4156-4211-b857-e88b05d9efe6" className="businessInternships">        
         <svg data-layer="80350aec-b0fd-4d58-a88f-5f94b9e18188" preserveAspectRatio="none" viewBox="-0.5 0 1 916" className="line9"><path d="M 0 0 L 0 916"  /></svg>
         <svg data-layer="006df1d7-42be-4edd-afae-2d14eff681a0" preserveAspectRatio="none" viewBox="-0.00048828125 -0.5 1920.0009765625 3" className="line10"><path d="M 0 2 L 1920 0"  /></svg>
         <div data-layer="ae2e5119-4d05-4b89-bf38-b33cb3f3615b" className="boostYourBusinessWithVectorArtServices"></div>

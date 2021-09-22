@@ -16,7 +16,7 @@ class EngineeringInternships extends React.Component {
   render() {
     
     return (
-          <div data-layer="7897a9b1-3796-4cb2-9c11-8b106b330c15" className="engineeringInternships">        <div data-layer="d9b886d0-31cf-41d4-acde-99443f6686f9" className="component56"></div>
+          <div data-layer="7897a9b1-3796-4cb2-9c11-8b106b330c15" className="engineeringInternships">        
         <svg data-layer="cc891c38-faf5-42cc-acbc-ef0ab6f08721" preserveAspectRatio="none" viewBox="-0.5 0 1 916" className="line9"><path d="M 0 0 L 0 916"  /></svg>
         <svg data-layer="a8d13df8-12c0-4658-b50d-8c108bcaeb47" preserveAspectRatio="none" viewBox="-0.00048828125 -0.5 1920.0009765625 3" className="line10"><path d="M 0 2 L 1920 0"  /></svg>
         <div data-layer="c627aaf8-771a-4eec-bf6f-fd997a2b54d4" className="femaleEngineerStandingNearChalkboardExplainingProjectDraftBuildingWorkerFlatVectorIllustrationConstructionArchitecture748558362"></div>

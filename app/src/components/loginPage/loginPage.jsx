@@ -17,7 +17,7 @@ class LoginPage extends React.Component {
   render() {
     
     return (
-          <div data-layer="8cfe587f-1969-4dfe-a1f1-2785532b5869" className="loginPage">        <div data-layer="ac78b399-acdb-4883-a89d-470b87a42bac" className="component57"></div>
+          <div data-layer="8cfe587f-1969-4dfe-a1f1-2785532b5869" className="loginPage">        
         <div data-layer="eb2454f3-dd5b-4821-bc79-e69f0da08eb1" className="rectangle23"></div>
         <div data-layer="88f0071f-3652-4dfa-94f8-9a09166a718a" className="userLogin">User Login</div>
         <div data-layer="415a5e7c-7b94-45cb-b215-242f2fa39305" className="rectangle24"></div>
