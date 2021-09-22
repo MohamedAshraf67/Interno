@@ -31,6 +31,7 @@
     transform-origin: center;
       opacity: 1;
       cursor: default;
+      white-space: initial;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -58,6 +59,8 @@
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
+    white-space: initial;
+
     -webkit-transform-origin: center;
     transform-origin: center;
       background-image: url("assets/x530a746087d021696f38e010ff8c3112.png");
@@ -113,6 +116,8 @@
     transform-origin: center;
       opacity: 0.30000001192092896;
       cursor: default;
+      white-space: initial;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -139,6 +144,8 @@
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
+    white-space: initial;
+
     transform-origin: center;
       opacity: 1;
       cursor: default;
@@ -180,6 +187,7 @@
       display: block;
       position: absolute;
       box-sizing: content-box;
+      white-space: initial;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
@@ -211,6 +219,8 @@
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
+    white-space: initial;
+
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
@@ -259,6 +269,8 @@
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
+    white-space: initial;
+
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
@@ -290,6 +302,8 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -336,6 +350,8 @@
     transform-origin: center;
       background-image: url("assets/holoniqLogoDefault.png");
     background-position: center;
+    white-space: initial;
+
     background-repeat: no-repeat;
     background-size: cover;
       opacity: 1;
@@ -384,6 +400,8 @@
     transform-origin: center;
       opacity: 1;
       cursor: default;
+      white-space: initial;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -420,6 +438,8 @@
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
+    white-space: initial;
+
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
@@ -448,6 +468,8 @@
     position: absolute;
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
+      white-space: initial;
+
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
@@ -498,6 +520,8 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+      white-space: initial;
+
       cursor: default;
       margin-top: 0.00px;
       margin-right: 0.00px;
@@ -537,6 +561,8 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
+    white-space: initial;
+
       background-image: url("assets/x2020Assessedbyjisc150pxRgb.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -582,6 +608,8 @@
       position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
+      white-space: initial;
+
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
@@ -611,6 +639,8 @@
     position: absolute;
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
+      white-space: initial;
+
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
@@ -661,6 +691,8 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+      white-space: initial;
+
       cursor: default;
       margin-top: 0.00px;
       margin-right: 0.00px;
@@ -707,6 +739,8 @@
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
+      white-space: initial;
+
       margin-right: 0.00px;
       margin-bottom: 0.00px;
       margin-left: 0.00px;
@@ -746,6 +780,8 @@
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
+    white-space: initial;
+
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
@@ -774,6 +810,7 @@
       white-space: pre;
       width: 1733.00px;
     height: 240.00px;
+    white-space: initial;
     left: 94.00px;
     top: 1582.00px;
 
@@ -784,6 +821,8 @@
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
+    white-space: initial;
+
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
@@ -832,6 +871,8 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -871,6 +912,8 @@
     font-family: TechnicBold, Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
+
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-16 {
@@ -881,6 +924,8 @@
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
+
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-17 {
@@ -891,6 +936,8 @@
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
+
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-18 {
@@ -901,6 +948,8 @@
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
+
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-41 {
@@ -911,6 +960,8 @@
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
+
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-48 {
@@ -921,6 +972,8 @@
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
+
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-61 {
@@ -931,6 +984,8 @@
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
+
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-67 {
@@ -941,6 +996,8 @@
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
+
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-80 {
@@ -950,14 +1007,17 @@
     font-size: 40.00px;
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
+    white-space: initial;
+
     text-decoration: none;
 }
 
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-86 {
     color: rgba(87, 87, 87, 1);
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
     font-size: 40.00px;
+    white-space: initial;    
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
@@ -968,6 +1028,7 @@
     font-weight: 300;
     font-style: italic;
     font-size: 40.00px;
+    white-space: initial; 
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
@@ -978,6 +1039,7 @@
     font-weight: 300;
     font-style: normal;
     font-size: 40.00px;
+    white-space: initial; 
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
@@ -988,6 +1050,7 @@
     font-weight: 300;
     font-style: italic;
     font-size: 40.00px;
+    white-space: initial; 
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
     text-decoration: none;
@@ -996,6 +1059,7 @@
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-499 {
     color: rgba(87, 87, 87, 1);
     font-weight: 300;
+    white-space: initial; 
     font-style: normal;
     font-size: 40.00px;
     font-family: 'Swis721 Lt BT', Arial;
@@ -1006,6 +1070,7 @@
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-504 {
     color: rgba(87, 87, 87, 1);
     font-weight: 300;
+    white-space: initial; 
     font-style: italic;
     font-size: 40.00px;
     font-family: 'Swis721 Lt BT', Arial;
@@ -1016,6 +1081,7 @@
 .homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-520 {
     color: rgba(87, 87, 87, 1);
     font-weight: 300;
+    white-space: initial; 
     font-style: normal;
     font-size: 40.00px;
     font-family: 'Swis721 Lt BT', Arial;
@@ -1027,6 +1093,7 @@
     color: rgba(87, 87, 87, 1);
     font-weight: 300;
     font-style: italic;
+    white-space: initial; 
     font-size: 40.00px;
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
@@ -1037,6 +1104,7 @@
     color: rgba(87, 87, 87, 1);
     font-weight: 300;
     font-style: normal;
+    white-space: initial; 
     font-size: 40.00px;
     font-family: 'Swis721 Lt BT', Arial;
     letter-spacing: 0;
@@ -1054,6 +1122,8 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -1085,6 +1155,8 @@
     transform-origin: center;
       background-image: url("assets/rectangle13.png");
     background-position: center;
+    white-space: initial;
+
     background-repeat: no-repeat;
     background-size: cover;
       opacity: 1;
@@ -1128,6 +1200,8 @@
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
+    white-space: initial;
+
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
@@ -1171,6 +1245,8 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
+    white-space: initial;
+
       background-image: url("assets/log.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -1222,6 +1298,8 @@
       background-image: url("assets/pngfindcomFacebookIconWhitePng1744532.png");
     background-position: center;
     background-repeat: no-repeat;
+    white-space: initial;
+
     background-size: cover;
       opacity: 1;
       cursor: default;
@@ -1263,6 +1341,8 @@
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
+    white-space: initial;
+
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
@@ -1319,6 +1399,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -1367,6 +1449,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -1409,6 +1493,8 @@
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
+    white-space: initial;
+
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
@@ -1439,6 +1525,7 @@
     height: 468.00px;
     left: 94.00px;
     top: 311.00px;
+    white-space: initial;
 
 }
 
@@ -1453,6 +1540,9 @@
     transform-origin: center;
       opacity: 1;
       cursor: default;
+      
+      white-space: initial;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -1479,6 +1569,7 @@
     height: 108.00px;
     left: 613.00px;
     top: 246.00px;
+    white-space: initial;
 
 }
 
@@ -1494,9 +1585,12 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+      white-space: initial;
       cursor: default;
       margin-top: 0.00px;
       margin-right: 0.00px;
+      white-space: initial;
+
       margin-bottom: 0.00px;
       margin-left: 0.00px;
       padding-top: 0.00px;
@@ -1521,6 +1615,7 @@
     transform: rotate(0.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
+    white-space: initial;
     transform-origin: center;
       opacity: 0.5;
       cursor: default;
@@ -1528,6 +1623,8 @@
       margin-right: 0.00px;
       margin-bottom: 0.00px;
       margin-left: 0.00px;
+      white-space: initial;
+
       padding-top: 0.00px;
       padding-right: 0.00px;
       padding-bottom: 0.00px;
@@ -1562,7 +1659,10 @@
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
+    white-space: initial;
     transform: rotate(0.00deg);
+    white-space: initial;
+
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
@@ -1611,8 +1711,11 @@
       background-image: url("assets/component51.png");
     background-position: center;
     background-repeat: no-repeat;
+    white-space: initial;
     background-size: cover;
       opacity: 1;
+      white-space: initial;
+
       cursor: default;
       margin-top: 0.00px;
       margin-right: 0.00px;
@@ -1648,11 +1751,14 @@
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
+      white-space: initial;
       margin-left: 0.00px;
       padding-top: 0.00px;
       padding-right: 0.00px;
       padding-bottom: 0.00px;
       padding-left: 0.00px;
+      white-space: initial;
+
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
@@ -1678,10 +1784,13 @@
       cursor: default;
       margin-top: 0.00px;
       margin-right: 0.00px;
+      white-space: initial;
       margin-bottom: 0.00px;
       margin-left: 0.00px;
       padding-top: 0.00px;
       padding-right: 0.00px;
+      white-space: initial;
+
       padding-bottom: 0.00px;
       padding-left: 0.00px;
       overflow-x: unset;
@@ -1705,8 +1814,11 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
+      white-space: initial;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -1734,6 +1846,8 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -1748,6 +1862,7 @@
       border-bottom-color: rgba(112, 112, 112, 1);
       border-bottom-style: none;
       border-bottom-width: 1.00px;
+      white-space: initial;
       border-left-color: rgba(112, 112, 112, 1);
       border-left-style: none;
       border-left-width: 1.00px;
@@ -1782,6 +1897,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -1827,6 +1944,8 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+      white-space: initial;
+
       cursor: default;
       margin-top: 0.00px;
       margin-right: 0.00px;
@@ -1862,6 +1981,8 @@
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
+      white-space: initial;
+
       margin-left: 0.00px;
       padding-top: 0.00px;
       padding-right: 0.00px;
@@ -1905,6 +2026,8 @@
       margin-left: 0.00px;
       padding-top: 0.00px;
       padding-right: 0.00px;
+      white-space: initial;
+
       padding-bottom: 0.00px;
       padding-left: 0.00px;
       background-color: rgba(255, 255, 255, 0);
@@ -1938,6 +2061,8 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+      white-space: initial;
+
       cursor: default;
       margin-top: 0.00px;
       margin-right: 0.00px;
@@ -1990,6 +2115,8 @@
       background-color: rgba(255, 255, 255, 0);
       text-align: center;
       letter-spacing: 0.00px;
+      white-space: initial;
+
       color: rgba(87, 87, 87, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
       font-size: 40.00px;
@@ -2034,6 +2161,8 @@
       background-color: rgba(255, 255, 255, 0);
       border-bottom-color: rgba(112, 112, 112, 1);
       border-bottom-style: solid;
+      white-space: initial;
+
       border-bottom-width: 1.00px;
       border-left-color: rgba(112, 112, 112, 1);
       border-left-style: solid;
@@ -2065,6 +2194,8 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
+    white-space: initial;
+
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
