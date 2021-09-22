@@ -741,6 +741,7 @@
     height: 392.00px;
     left: 946.00px;
     top: 181.00px;
+    white-space: initial;
 
 }
 
@@ -802,5 +803,6 @@
     font-family: 'Ink Free', Arial;
     letter-spacing: 0;
     text-decoration: none;
+    white-space: initial;
 }
 
