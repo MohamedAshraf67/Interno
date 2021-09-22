@@ -13,7 +13,7 @@ class LoginPage extends React.Component {
 
       };
   }
-  
+
   render() {
     
     return (
@@ -45,4 +45,3 @@ LoginPage.defaultProps = {
 
 
 export default LoginPage;
-          

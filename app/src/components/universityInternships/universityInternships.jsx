@@ -83,7 +83,6 @@ class UniversityInternships extends React.Component {
             <div data-layer="a6ff0eff-e126-4ddc-8546-260fdcce73d2" className="seekpngcomlinkedInIconPng1521509"></div>
             <div data-layer="16351693-d4a0-4d59-a40b-f2452f99e701" className="xShouldYourCompanyHireAForeignEmployeeTheProsAndConsasOf202059PercentOfSiliconValleysWorkforceWasForeignBornInACountryWhereHiringForeignWorkersIsIncreasinglyDifficultThereHasNeverBeenAnotherPoint">•       Should Your Company Hire a Foreign Employee? The Pros and Cons<br />As of 2020, 59 percent of Silicon Valley's workforce was foreign-born. In a country <br />where hiring foreign workers is increasingly difficult.<br /><br />•       There has never been another point in history where more people around the <br />world have had today's access to education and in-demand job skills.<br /><br />•       In August 2021, our in-house writer, Peter, sat down with the CEO of longtime VI partner, Popular Robotics.</div>
 </div>
-        <div data-layer="149ebc31-19c5-4a89-a207-645cf462571a" className="component52"></div>
         <svg data-layer="9cd6b851-a5b5-4324-8125-9aa9f77c6986" preserveAspectRatio="none" viewBox="-0.5 0 1 226" className="line11"><path d="M 0 0 L 0 226"  /></svg>
         <div data-layer="3f745b6f-c7e9-48f0-ade8-3c972d2f4ae9" className="universityInternships4649152e">University Internships</div>
 </div>

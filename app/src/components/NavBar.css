@@ -1,4 +1,4 @@
-  .homepage .component51 {
+/*  .homepage .component51 {
 
     display: block;
     position: absolute;
@@ -524,4 +524,241 @@
   left: 1626.00px;
   top: 45.00px;
 
+}
+*/
+/*.nav1 {
+  list-style-type: none;
+  display: flex;
+  width: 100%;
+}
+*/
+.nav{
+  width: 100%;
+  height: 210px;
+  left: -28.00px;
+  top: -45.00px;
+  z-index: 10;
+  background-color: blue;
+}
+.img{
+  width: 210px;
+  height: 210px;
+  top: -20px;
+  left: -20px;
+}
+.nav-link {
+  font-family: TechnicBold, Arial;
+  font-size: 54.00px;
+  left: 500px;
+}
+.UI{
+  position: absolute;
+    box-sizing: content-box;
+    -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+    opacity: 1;
+    cursor: pointer;
+    margin-top: 0.00px;
+    margin-right: 0.00px;
+    margin-bottom: 0.00px;
+    white-space: initial;
+
+    margin-left: 0.00px;
+    padding-top: 0.00px;
+    padding-right: 0.00px;
+    padding-bottom: 0.00px;
+    padding-left: 0.00px;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    letter-spacing: 0.00px;
+    color: rgba(87, 87, 87, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 20.00px;
+    font-weight: 200;
+  font-style: normal;
+    font-family: 'Stylus BT', Arial;
+    text-decoration: none;
+    box-shadow: none;
+    overflow-x: unset;
+    overflow-y: unset;
+    white-space: pre;
+    width: 260.00px;
+  height: 98.00px;
+  left: 582.00px;
+  top: 58.00px;
+}
+.HI{
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  white-space: initial;
+
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  letter-spacing: 0.00px;
+  color: rgba(87, 87, 87, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 20.00px;
+  font-weight: 200;
+font-style: normal;
+  font-family: 'Stylus BT', Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 260.00px;
+height: 98.00px;
+left: 858.00px;
+top: 58.00px;
+}
+.ES{
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  white-space: initial;
+
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  letter-spacing: 0.00px;
+  color: rgba(87, 87, 87, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 20.00px;
+  font-weight: 200;
+font-style: normal;
+  font-family: 'Stylus BT', Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 260.00px;
+height: 49.00px;
+left: 1134.00px;
+top: 60.00px;
+}
+.AB{
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  letter-spacing: 0.00px;
+  white-space: initial;
+
+  color: rgba(87, 87, 87, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 20.00px;
+  font-weight: 200;
+font-style: normal;
+  font-family: 'Stylus BT', Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 122.00px;
+height: 49.00px;
+left: 1410.00px;
+top: 60.00px;
+}
+.BU{
+  position: absolute;
+    box-sizing: border-box;
+    -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    opacity: 1;
+    cursor: default;
+    margin-top: 0.00px;
+    margin-right: 0.00px;
+    margin-bottom: 0.00px;
+    margin-left: 0.00px;
+    padding-top: 0.00px;
+    padding-right: 0.00px;
+    padding-bottom: 0.00px;
+    padding-left: 0.00px;
+    background-color: #FF8800;
+    border-bottom-color: rgba(112, 112, 112, 1);
+    border-bottom-style: solid;
+    white-space: initial;
+
+    border-bottom-width: 1.00px;
+    border-left-color: rgba(112, 112, 112, 1);
+    border-left-style: solid;
+    border-left-width: 1.00px;
+    border-right-color: rgba(112, 112, 112, 1);
+    border-right-style: solid;
+    border-right-width: 1.00px;
+    border-top-color: rgba(112, 112, 112, 1);
+    border-top-style: solid;
+    border-top-width: 1.00px;
+    border-top-left-radius: 58.00px;
+    border-top-right-radius: 58.00px;
+    border-bottom-left-radius: 58.00px;
+    border-bottom-right-radius: 58.00px;
+    box-shadow: none;
+    font-size: 30.00px;
+    font-weight: 400;
+  font-style: normal;
+    font-family: TechnicBold, Arial;
+    width: 350.00px;
+  height: 116.00px;
+  left: 1548.00px;
+  top: 10.00px;
 }
