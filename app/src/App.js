@@ -11,6 +11,8 @@ import Signup from './components/signUpPage/signUpPage'
 import UI from './components/universityInternships/universityInternships'
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import NavBar from './components/NavBar';
+require('./models/login');
+require('./models/signup');
 
 function App() {
   return (
