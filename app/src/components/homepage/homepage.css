@@ -1,0 +1,2098 @@
+
+
+      html {
+        height: 100%;
+        width: 100%;
+      }
+
+      body {
+        font-family: 'Open Sans', serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+      }
+
+      
+
+      .homepage {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: rgba(255, 255, 255, 1);
+      width: auto;
+    height: auto;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.homepage .x530a746087d021696f38e010ff8c3112 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/x530a746087d021696f38e010ff8c3112.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 300.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 300.00px;
+      -webkit-filter: drop-shadow(10px 10px 12px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(10px 10px 12px rgba(0, 0, 0, 0.1607843137254902));
+      width: 1920.00px;
+    height: 1080.00px;
+    left: 0.00px;
+    top: 116.00px;
+
+}
+
+.homepage .repeatGrid1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.30000001192092896;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: transparent;
+      width: 1664.01px;
+    height: 1035.17px;
+    left: 0.00px;
+    top: 785.42px;
+
+}
+
+.homepage .repeatGrid1 .rectangle2 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1664.01px;
+    height: 1035.17px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .repeatGrid2 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: transparent;
+      width: 2583.33px;
+    height: 1027.58px;
+    left: -663.59px;
+    top: 852.91px;
+
+}
+
+.homepage .repeatGrid2 .rectangle8 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.30000001192092896;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 2583.33px;
+    height: 1027.58px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .group1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 573.00px;
+    height: 573.00px;
+    left: 94.00px;
+    top: 910.00px;
+
+}
+
+.homepage .group1 .rectangle9 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 50.00px;
+      border-top-right-radius: 50.00px;
+      border-bottom-left-radius: 50.00px;
+      border-bottom-right-radius: 50.00px;
+      box-shadow: none;
+      width: 573.00px;
+    height: 573.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .group1 .holoniqLogoDefault {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/holoniqLogoDefault.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 341.00px;
+    height: 126.00px;
+    left: 116.00px;
+    top: 26.00px;
+
+}
+
+.homepage .group1 .oneOfTheWorldsTopedtechCompanies {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 53.00px;
+      font-weight: 300;
+    font-style: normal;
+      font-family: 'Swis721 Lt BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 500.00px;
+    height: 126.00px;
+    left: 37.00px;
+    top: 287.00px;
+
+}
+
+.homepage .group2 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 573.00px;
+    height: 573.00px;
+    left: 674.00px;
+    top: 910.00px;
+
+}
+
+.homepage .group2 .rectangle11 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 50.00px;
+      border-top-right-radius: 50.00px;
+      border-bottom-left-radius: 50.00px;
+      border-bottom-right-radius: 50.00px;
+      box-shadow: none;
+      width: 573.00px;
+    height: 573.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .group2 .top20EdtechCompanyAddressingEducationsBiggestChallenges {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 47.00px;
+      font-weight: 300;
+    font-style: normal;
+      font-family: 'Swis721 Lt BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 510.00px;
+    height: 168.00px;
+    left: 31.00px;
+    top: 286.00px;
+
+}
+
+.homepage .group2 .x2020Assessedbyjisc150pxRgb {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/x2020Assessedbyjisc150pxRgb.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 351.00px;
+    height: 85.00px;
+    left: 111.00px;
+    top: 47.00px;
+
+}
+
+.homepage .group3 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 573.00px;
+    height: 573.00px;
+    left: 1254.00px;
+    top: 910.00px;
+
+}
+
+.homepage .group3 .rectangle10 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 50.00px;
+      border-top-right-radius: 50.00px;
+      border-bottom-left-radius: 50.00px;
+      border-bottom-right-radius: 50.00px;
+      box-shadow: none;
+      width: 573.00px;
+    height: 573.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .group3 .futureOfWorkexperience {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 47.00px;
+      font-weight: 300;
+    font-style: normal;
+      font-family: 'Swis721 Lt BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 290.00px;
+    height: 112.00px;
+    left: 142.00px;
+    top: 294.00px;
+
+}
+
+.homepage .group3 .download {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/download.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 184.00px;
+    height: 184.00px;
+    left: 195.00px;
+    top: 26.00px;
+
+}
+
+.homepage .weAreRedefiningCareerDevelopmentByReducingBarriersToEmploymentThroughOurIndustryLeadingVirtualEmployabilityProgramsweWorkWithUniversitiesK12SchoolsGovernmentsEducationInstitutionsAndCorporatesToProvideStudentsGraduates {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 300;
+    font-style: normal;
+      font-family: 'Swis721 Lt BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 1733.00px;
+    height: 240.00px;
+    left: 94.00px;
+    top: 1582.00px;
+
+}
+
+.homepage .rectangle12 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.28999999165534973;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(201, 201, 201, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 792.00px;
+    left: 0.00px;
+    top: 2001.00px;
+
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 300;
+    font-style: normal;
+      font-family: 'Swis721 Lt BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 1733.00px;
+    height: 593.00px;
+    left: 94.00px;
+    top: 2101.00px;
+
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-0 {
+    color: rgba(255, 119, 0, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70.00px;
+    font-family: TechnicBold, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-16 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-17 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 70.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-18 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-41 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: italic;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-48 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-61 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: italic;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-67 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-80 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: italic;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-86 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-264 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: italic;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-269 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-474 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: italic;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-499 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-504 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: italic;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-520 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-526 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: italic;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne .whatIsInternocallItWhatYouWillVirtualInternshipRemoteInternshipOnlineInternshipTeleWorkingTelecommutingItAllMeanstheSameThingStudentsOrGraduatesWhoUndertakeOneOfOurProgramsAreGuaranteedARemoteInternshipWithOne-538 {
+    color: rgba(87, 87, 87, 1);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.00px;
+    font-family: 'Swis721 Lt BT', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.homepage .group10 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1920.00px;
+    height: 1527.00px;
+    left: 0.00px;
+    top: 2793.00px;
+
+}
+
+.homepage .group10 .rectangle13 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/rectangle13.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 1527.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .group10 .latestNews {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(112, 112, 112, 1);
+      font-size: 81.00px;
+      font-weight: 700;
+    font-style: italic;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 456.00px;
+    height: 107.00px;
+    left: 732.50px;
+    top: 144.50px;
+
+}
+
+.homepage .group10 .log {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/log.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 346.00px;
+    height: 346.00px;
+    left: 787.00px;
+    top: 865.00px;
+
+}
+
+.homepage .group10 .pngfindcomFacebookIconWhitePng1744532 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/pngfindcomFacebookIconWhitePng1744532.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 46.00px;
+    height: 91.00px;
+    left: 764.00px;
+    top: 1187.00px;
+
+}
+
+.homepage .group10 .pngaaacom1277234 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/pngaaacom1277234.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 107.00px;
+    height: 91.00px;
+    left: 840.00px;
+    top: 1187.00px;
+
+}
+
+.homepage .group10 .pxpngcominstagramLogoLogoComputerIconsBrandInstagramLogoWhiteTextRectangle1224x792 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/pxpngcominstagramLogoLogoComputerIconsBrandInstagramLogoWhiteTextRectangle1224x792.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 140.00px;
+    height: 91.00px;
+    left: 947.00px;
+    top: 1187.00px;
+
+}
+
+.homepage .group10 .seekpngcomlinkedInIconPng1521509 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/seekpngcomlinkedInIconPng1521509.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 94.00px;
+    height: 91.00px;
+    left: 1087.00px;
+    top: 1187.00px;
+
+}
+
+.homepage .group10 .xShouldYourCompanyHireAForeignEmployeeTheProsAndConsasOf202059PercentOfSiliconValleysWorkforceWasForeignBornInACountryWhereHiringForeignWorkersIsIncreasinglyDifficultThereHasNeverBeenAnotherPoint {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 45.00px;
+      font-weight: 200;
+    font-style: italic;
+      font-family: SansSerif, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 1733.00px;
+    height: 468.00px;
+    left: 94.00px;
+    top: 311.00px;
+
+}
+
+.homepage .alreadyAnIntern {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(112, 112, 112, 1);
+      font-size: 88.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Candara, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 666.00px;
+    height: 108.00px;
+    left: 613.00px;
+    top: 246.00px;
+
+}
+
+.homepage .group11 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 666.00px;
+    height: 148.00px;
+    left: 613.00px;
+    top: 426.00px;
+
+}
+
+.homepage .group11 .rectangle27 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.5;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 74.00px;
+      border-top-right-radius: 74.00px;
+      border-bottom-left-radius: 74.00px;
+      border-bottom-right-radius: 74.00px;
+      box-shadow: none;
+      width: 666.00px;
+    height: 148.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .group11 .signInHere {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(112, 112, 112, 1);
+      font-size: 98.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Gabriola, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 376.00px;
+    height: 98.00px;
+    left: 145.50px;
+    top: 25.50px;
+
+}
+
+.homepage .component51 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/component51.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1948.00px;
+    height: 210.00px;
+    left: -28.00px;
+    top: -45.00px;
+
+}
+
+.homepage .component51 .component41 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1948.00px;
+    height: 210.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .component51 .component41 .component21 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1948.00px;
+    height: 210.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .component51 .component41 .component21 .component11 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1948.00px;
+    height: 210.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .component51 .component41 .component21 .component11 .rectangle1 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 1920.00px;
+    height: 119.00px;
+    left: 28.00px;
+    top: 45.00px;
+
+}
+
+.homepage .component51 .component41 .component21 .component11 .logo {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 210.00px;
+    height: 210.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.homepage .component51 .component41 .component21 .component11 .path1 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 139.83px;
+    height: 32.10px;
+    left: 186.82px;
+    top: 83.96px;
+
+}
+
+.homepage .component51 .component41 .component21 .universityinternships {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 200;
+    font-style: normal;
+      font-family: 'Stylus BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 260.00px;
+    height: 98.00px;
+    left: 582.00px;
+    top: 58.00px;
+
+}
+
+.homepage .component51 .component41 .component21 .highSchoolinternships {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 200;
+    font-style: normal;
+      font-family: 'Stylus BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 260.00px;
+    height: 98.00px;
+    left: 858.00px;
+    top: 58.00px;
+
+}
+
+.homepage .component51 .component41 .component21 .essentials {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 200;
+    font-style: normal;
+      font-family: 'Stylus BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 260.00px;
+    height: 49.00px;
+    left: 1134.00px;
+    top: 82.00px;
+
+}
+
+.homepage .component51 .component41 .component21 .about {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 200;
+    font-style: normal;
+      font-family: 'Stylus BT', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 122.00px;
+    height: 49.00px;
+    left: 1410.00px;
+    top: 81.00px;
+
+}
+
+.homepage .component51 .component41 .rectangle7 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/rectangle7.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 58.00px;
+      border-top-right-radius: 58.00px;
+      border-bottom-left-radius: 58.00px;
+      border-bottom-right-radius: 58.00px;
+      box-shadow: none;
+      width: 400.00px;
+    height: 116.00px;
+    left: 1548.00px;
+    top: 45.00px;
+
+}
+
+.homepage .component51 .becomeAnintern {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(87, 87, 87, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 54.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: TechnicBold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 252.00px;
+    height: 119.00px;
+    left: 1626.00px;
+    top: 45.00px;
+
+}
+
