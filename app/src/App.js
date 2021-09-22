@@ -10,11 +10,15 @@ import Login from './components/loginPage/loginPage'
 import Signup from './components/signUpPage/signUpPage'
 import UI from './components/universityInternships/universityInternships'
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import NavBar from './components/NavBar';
 
 function App() {
   return (
     <Router>
       <Switch>
+      <Route exact path = "/nav">
+      <NavBar/>
+        </Route>
         <Route exact path = "/home">
           <Home />
         </Route>

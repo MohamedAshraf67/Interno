@@ -1695,6 +1695,10 @@
 
 }
 
+.homepage .group11 .signInHere:hover{
+  cursor: pointer;
+}
+
 .homepage .component51 {
 
       display: block;
@@ -2225,3 +2229,11 @@
 
 }
 
+.hidden{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  height: 500px;
+  background-color: black;
+}

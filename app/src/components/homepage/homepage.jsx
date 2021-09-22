@@ -52,16 +52,9 @@ class Homepage extends React.Component {
             <div data-layer="5f5daefc-4861-45d0-8d21-60612baa2a33" className="signInHere">Sign in here!</div>
             </Link>
 </div>
-<svg class="Rectangle_7_b">
-				<radialGradient id="Rectangle_7_b" spreadMethod="pad" x1="0" x2="0" y1="0" y2="0">
-					<stop offset="0" stop-color="#f80" stop-opacity="1"></stop>
-					<stop offset="1" stop-color="#ff3d00" stop-opacity="1"></stop>
-				</radialGradient>
-				<rect onclick="application.goToTargetView(event)" id="Rectangle_7_b" rx="58" ry="58" x="0" y="0" width="600" height="116">
-				</rect>
-			</svg>
-        <div data-layer="d7932a66-cc6a-4058-bc83-2a81661b1993" className="component51"></div>
-</div>
+        {/* <div data-layer="d7932a66-cc6a-4058-bc83-2a81661b1993" className="component51"></div>
+ */}
+ </div>
     );
   }
 }
