@@ -52,8 +52,8 @@ class Homepage extends React.Component {
             <div data-layer="5f5daefc-4861-45d0-8d21-60612baa2a33" className="signInHere">Sign in here!</div>
             </Link>
 </div>
-        {/* <div data-layer="d7932a66-cc6a-4058-bc83-2a81661b1993" className="component51"></div>
- */}
+        <div data-layer="d7932a66-cc6a-4058-bc83-2a81661b1993" className="component51"></div>
+ 
  </div>
     );
   }
