@@ -650,10 +650,12 @@
     color: rgba(0, 0, 0, 1);
     font-weight: 400;
     font-style: normal;
+    white-space: initial;
     font-size: 55.00px;
     font-family: Gabriola, Arial;
     letter-spacing: 0;
     text-decoration: none;
+    
 }
 
 .essentials .ourMission {
