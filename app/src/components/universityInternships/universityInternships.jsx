@@ -1,6 +1,8 @@
-
 import React from "react";
 import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
+import NavBar from "../NavBar";
+
 
 import "./universityInternships.css";
 
@@ -29,20 +31,25 @@ class UniversityInternships extends React.Component {
         <svg data-layer="a57406cc-fa71-4c4d-8005-7e3ff56341bd" preserveAspectRatio="none" viewBox="-0.5 0 1 214" className="line3"><path d="M 0 0 L 0 214"  /></svg>
         <svg data-layer="742c66df-aec3-4261-afdd-6eeda545a1d9" preserveAspectRatio="none" viewBox="-0.001708984375 -0.5 628.003173828125 3" className="line4"><path d="M 0 2 L 628 0"  /></svg>
         <svg data-layer="c174a546-3b7f-4902-b0f1-631e2037958c" preserveAspectRatio="none" viewBox="-0.5 0 1 214" className="line5"><path d="M 0 0 L 0 214"  /></svg>
-        <div data-layer="a79eacf4-71e2-4995-b039-0c8c0a20d42f" className="rectangle16"></div>
-        <div data-layer="d759136a-542f-49d7-9378-8ef5f139c900" className="group4">            <div data-layer="5b90e3e2-102d-49bd-ae49-2813b234b781" className="rectangle14"></div>
+        <Link to = "/EI">
+        <div data-layer="a79eacf4-71e2-4995-b039-0c8c0a20d42f" className="rectangle16"></div> </Link>
+        <Link to = "/BI">
+        <div data-layer="d759136a-542f-49d7-9378-8ef5f139c900" className="group4">            <div data-layer="5b90e3e2-102d-49bd-ae49-2813b234b781" className="rectangle14"></div> 
             <div data-layer="385a318d-b239-4051-9bf9-8e18fc2f84a9" className="rectangle17"></div>
             <div data-layer="acd08b10-f2dc-4dd4-9e51-013516810023" className="businessInternship">Business internship </div>
             <div data-layer="1290a04f-b456-47ec-9cfb-99b95408fd5a" className="theBusinessCareerFieldGivesInternsTheOpportunityToSupportAWideRangeOfDepartmentsAndTasksDependingOnTheInternsInterestAsWellAsExperienceTransferableSkillsAndFutureCareerPathwaysParticipantsWantingToExpandTheirExperien">The business career field gives interns the opportunity to support a wide range of departments and tasks depending on the interns interest as well as experience, transferable skills, and future career pathways. Participants wanting to expand their experience supporting business development, management, consulting, operations, research, and content development will be able to work for SMEs as well as large domestic or international facing companies. Upon completing a business internship participants will be able to articulate the differences in company and country cultures, management styles and methods, and utilize new found professional and project management skills.</div>
-</div>
+</div> </Link>
         <div data-layer="06d9e53b-0ab4-407d-ae07-a9e1699a912c" className="rectangle19"></div>
+        <Link to = "CI">
         <div data-layer="497e837f-7452-4ddb-a179-7a1391286192" className="group5">            <div data-layer="b92f4edb-b794-458e-b950-5b8c4e4cd27f" className="rectangle15"></div>
             <div data-layer="d0e84956-bd78-4336-abe0-6f91a50d90a0" className="rectangle18"></div>
             <div data-layer="615de4cf-b3f4-4c13-b7d8-fc7ade02d85d" className="computerScienceIt">Computer Science<br />& IT</div>
             <div data-layer="5da8043b-f702-4a6c-903e-f506d038b049" className="theUsDepartmentOfLaborBureauOfLaborStatisticsProjectsAn18GrowthInComputerOccupationsFor20122022MakingItOneOfTheFastestGrowingCareerFieldsInternsCanSupportItDepartmentsDirectlyOrTakeOnProjectsRequiringProgramming">The U.S. Department of Labor Bureau of Labor Statistics projects an 18% growth in computer occupations for 2012-2022, making it one of the fastest-growing career fields. Interns can support IT departments directly or take on projects requiring programming or technical skills including app development, website design, and computing. At the same time increasing their understanding of the importance of technology in the world’s markets and cross-cultural communications.</div>
-</div>
-        <div data-layer="e1344534-14c9-4edc-ad5a-2050ebb91356" className="engineering">Engineering</div>
-        <div data-layer="08690604-57e8-4217-8454-168349dadff6" className="engineeringIsABroadCareerFieldConsistingOfManySpecializationsInMathematicsScienceAndApplicationAsiaStandsOutAsAnExcitingRegionToLearnAndWorkInEngineeringDueToItsImmenseEconomicGrowthAndInvestmentInRdFromLocalComp">Engineering is a broad career field consisting of many specializations in mathematics, science, and application. Asia stands out as an exciting region to learn and work in engineering due to its immense economic growth and investment in R&D from local companies and governments. Common types of supported engineering placements with VI include civil, computer, electrical, environmental, and industrial, and mechanical engineering.</div>
+</div> </Link>
+<Link to = "EI">
+        <div data-layer="e1344534-14c9-4edc-ad5a-2050ebb91356" className="engineering">Engineering</div> </Link>
+        <Link to ="EI">
+        <div data-layer="08690604-57e8-4217-8454-168349dadff6" className="engineeringIsABroadCareerFieldConsistingOfManySpecializationsInMathematicsScienceAndApplicationAsiaStandsOutAsAnExcitingRegionToLearnAndWorkInEngineeringDueToItsImmenseEconomicGrowthAndInvestmentInRdFromLocalComp">Engineering is a broad career field consisting of many specializations in mathematics, science, and application. Asia stands out as an exciting region to learn and work in engineering due to its immense economic growth and investment in R&D from local companies and governments. Common types of supported engineering placements with VI include civil, computer, electrical, environmental, and industrial, and mechanical engineering.</div> </Link>
         <div data-layer="a20c8e20-d04a-450a-bb59-2a3c0c6110b6" className="group7">            <svg data-layer="1c12cf06-ad35-4087-953d-9e5739aa5f91" preserveAspectRatio="none" viewBox="-0.75 -0.75 430.5 430.5" className="pixabayCtApplicationTips"><defs><pattern id="img-pixabayCtApplicationTips" patternContentUnits="userSpaceOnUse" width="100%" height="100%"><image xlinkHref={require('./assets/pixabayCtApplicationTips.png')} x="0" y="0" width="429.00px" height="429.00px" /></pattern></defs><path d="M 214.5 0 C 332.9650573730469 0 429 96.03493499755859 429 214.5 C 429 332.9650573730469 332.9650573730469 429 214.5 429 C 96.03493499755859 429 0 332.9650573730469 0 214.5 C 0 96.03493499755859 96.03493499755859 0 214.5 0 Z" fill="url(#img-pixabayCtApplicationTips)" /></svg>
             <svg data-layer="537bb3d6-5563-4679-9aad-18b0bc17075e" preserveAspectRatio="none" viewBox="-0.75 -0.75 127.5 127.5" className="ellipse1f77598b0"><path d="M 63 0 C 97.79393768310547 0 126 28.20606231689453 126 63 C 126 97.79393768310547 97.79393768310547 126 63 126 C 28.20606231689453 126 0 97.79393768310547 0 63 C 0 28.20606231689453 28.20606231689453 0 63 0 Z"  /></svg>
             <div data-layer="77566d75-4ded-4dd8-a6a3-763acbf2c760" className="x2">2</div>

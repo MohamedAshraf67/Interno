@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
+import NavBar from "../NavBar";
 
 import "./homepage.css";
 
@@ -16,7 +17,6 @@ class Homepage extends React.Component {
   render() {
     
     return (
-            
             <div data-layer="64161f99-1ca2-4eb7-876b-26cef2dc0cd2" className="homepage">        <div data-layer="f87e2e38-af3b-4489-a3b0-e7dd756c62e8" className="x530a746087d021696f38e010ff8c3112"></div>
         <div data-layer="1a99d377-f7a1-48b4-86ce-45bc84857259" className="repeatGrid1">            <div data-layer="e604d9f6-abde-4563-9d14-cbd1f25ce73b" className="rectangle2"></div>
 </div>
